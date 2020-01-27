@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@video.demo:
+  ssh: vagrant:video.demo:/var/www/html
